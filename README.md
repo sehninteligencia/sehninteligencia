@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfilzinho😵‍💫
 
-<!--
-**sehninteligencia/sehninteligencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Arthur Sehn
 
-Here are some ideas to get you started:
+- Atualmente estou estudando sobre javascript
+- Estou fazendo alguns projetos pessoais pra me aprimorar
+- Eu estou estudando pelo alura e por outras fontes, recomendo bastante a leitura de livros
 
-- 🔭 I’m currently working on some school projects
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about ...
-- 📫 How to reach me: idk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i started learning javascript 2 weeks ago
--->
+### Caso queira entrar em contato comigo📫
+
+arthursehnpereira@gmail.com
+
+
+![...](https://media1.tenor.com/m/Ztvwx8hdRQ4AAAAC/bglamours-paypal-me-4400-dollars.gif)
