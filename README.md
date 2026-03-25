@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eu+me+chamo+Arthur;Estudante+de+ADS;Sempre+buscando+aprender+mais&color=FFFFFF)](https://git.io/typing-svg)
 ---
 
-### Estudante de ADS e Jovem Aprendiz de TI na SIG Combibloc. 
+### Estudante de ADS e Jovem Aprendiz de TI. 
 **Tenho utilizado bastante JavaScript, e recentemente passei a me dedicar mais a aprender sobre o back-end pois é uma area que começou a me atrair muito.**
 
 
